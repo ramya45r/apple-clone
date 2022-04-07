@@ -1,0 +1,226 @@
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: rgb(49,49,49);
+    width: 100%;
+    padding: 15px;
+    margin-top: -1%;
+    margin-left: -1%;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    color: white;  
+    }
+.navbar a{
+color: white;
+text-decoration: none;
+    }
+    .head{
+        display: flex;
+        background-color:rgb(245,245,247);
+        justify-content: center;
+        display: flex;
+        height:6vh;
+         }
+    .head2{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        line-height: 1.5;
+    }
+    .link{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 1rem;
+        text-decoration: none;
+    }
+
+    
+    .iphone13{
+        display: flex;
+        height: 30%;
+        justify-content: center;
+        
+
+    }
+    .section2{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .iphonese2020{
+        width: 25%;
+        height: 10%;
+    }
+    .link1{
+        display:flex;
+        flex-direction: row;
+        gap:1rem
+    }
+    .iphonese{
+        width:75%;
+        height:10%;
+    }
+    .section3{
+        display:flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: black;
+    }
+    .section3-1{
+        display: flex;
+        flex-direction: column;
+        justify-content: center; 
+        align-items: center;
+        padding-left: 15px;
+        padding-top: 100Px;
+
+        
+    }
+    .link3-1{
+        display: flex;
+        flex-direction: row;
+        gap :1rem;
+        padding-top: 0%;
+        padding-left:0%;
+        padding-bottom: 20px;
+        text-decoration:none;
+    }
+    .link3-1a{
+        display: inline;
+    }
+    .section3-2{
+        display: flex;
+        width: 90%;
+        height: 30%;
+    }
+    .section{
+         flex-direction: row;
+
+    }
+    .section4{
+        flex: 1;
+     display: flex;
+     flex-direction: row;
+     }
+    .section4-1{
+        margin-top: 5px;
+        display: flex;
+        flex:1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-right: 300px;
+        padding-left: 140px;
+
+    }
+    .section4-2{
+        margin-top: 0px;
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-right: 200px;
+    }
+    .link4{
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+    
+        }
+        
+        .link4 a{
+            text-decoration: none;
+        }
+    .section5{
+        flex: 1;
+        display: flex;
+        flex-direction: row;
+    }
+    .section5-1{
+        display: flex;
+        flex:1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section5-2{
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .section6{
+        flex: 1;
+        display: flex;
+        flex-direction: row;
+    }
+    .section6-1{
+        display: flex;
+        flex:1;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .section6-2{
+        
+        display: flex;
+        flex: 1;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .section61front{
+        margin-top: -20px;
+        padding-left: 80px;
+    }
+    .section62front{
+        margin-top: -170px;
+        padding-left: 150px;
+    }
+    .section7parag{
+        
+        text-align: justify;
+        padding: 60px;
+    }
+    .section8
+    {
+        display: flex;
+        flex:1;
+        text-align: justify;
+        text-align: justify;
+        gap: 2rem;
+        line-height: 1.5;
+        margin-top: -80px;
+        padding-left: 100px;
+    }
+    .section8 li{
+        list-style:none ;
+    }
+    .section8 a{
+text-decoration: none;
+color: black;
+    }
+    .listhead{
+        font-weight: bold;
+        background-color:white;
+    }
+    .footerdiv{
+        padding-left: 70px;
+        margin-top: 10px;
+        
+    }
+    .footerdiv a{
+        text-decoration: none;
+        margin-top: 20px;
+
+    }
+
+    
